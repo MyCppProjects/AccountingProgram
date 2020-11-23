@@ -20,7 +20,7 @@ CREATE TABLE clients (
 );
 ```
 ### Related Images
-
+If Added Client's current debt is 0, in other words, if the client paid his debt; its row gets green.
 ![Example](https://user-images.githubusercontent.com/42900996/99983164-8f86a680-2dbc-11eb-9aff-acaae0bfab68.jpg)
 
 ![Next](https://user-images.githubusercontent.com/42900996/99983168-90b7d380-2dbc-11eb-9d42-497de755a1d3.jpg)
