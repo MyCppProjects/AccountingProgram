@@ -2,9 +2,7 @@
 This project is for a relative who owns a business and needs to track down his clients' total debts and such. An accounting program, which uses MySQL as database, C++/SLI, and connected to firebase in case sth happens to localhost. Firebase support will come with upcoming updates.
 
 ## Installation
-```bash
-
-```
+Just download my file, you can use the exe file in Debug folder. I couldn't find any tutorial on C++/CLI, so I just put all of my solution here.
 
 ## How To Use
 Basically, you're gonna download the whole package or just download it through npm. You need to create a mysql database called "stuff" through MYSQL, and run this query.
